@@ -3,19 +3,19 @@ Welcome to the Student Database Management System project! This project aims to 
 <br>
 Features
 <br>
-Student Records Management:
+Student Records Management:<br>
 Add, update, and delete student records
 View student details including personal information, courses enrolled, and grades
 <br>
-Appointment Scheduling:
+Appointment Scheduling:<br>
 Schedule and manage appointments for students and staff
 Set reminders and notifications for upcoming appointments
 <br>
-Staff Management:
+Staff Management:<br>
 Add, update, and delete staff records
 Assign roles and responsibilities to staff members
 <br>
-Technologies Used
+Technologies Used<br>
 Java: Used for backend development to handle data processing, manipulation, and business logic.
 <br>
 Author-Abhishek kumar
