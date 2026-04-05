@@ -81,7 +81,7 @@ public class StudentDatabase {
                         break;
                 case 5: System.exit(0);  
                         break;
-                default : System.out.println("Invalid Choice");
+                default : System.out.println("Invalid Data");
                     
             }
         }
