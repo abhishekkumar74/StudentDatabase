@@ -19,7 +19,7 @@ class student {
     }
     public void viewStudent () {
         System.out.println("Name: " +name);
-        System.out.println("Roll No: " +rollNo);
+        System.out.println("Roll Nu: " +rollNo);
         System.out.println("Age: " +age);
         System.out.println("Marks: " +marks);
     }
