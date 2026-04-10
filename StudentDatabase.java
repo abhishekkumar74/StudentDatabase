@@ -33,7 +33,7 @@ public class StudentDatabase {
         Scanner sc = new Scanner(System.in);
 
         while (true) {
-            System.out.println("1. Add students");
+            System.out.println("1. Add student");
             System.out.println("2. view student");
             System.out.println("3. search student");
             System.out.println("4. Calculate average marks");
