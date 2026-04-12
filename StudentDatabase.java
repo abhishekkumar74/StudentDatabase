@@ -18,7 +18,7 @@ class student {
         return rollNo;
     }
     public void viewStudent () {
-        System.out.println("Name: " +Name);
+        System.out.println("Name: " +name);
         System.out.println("Roll Number: " +rollNo);
         System.out.println("Age: " +age);
         System.out.println("Marks: " +marks);
