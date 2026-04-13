@@ -5,7 +5,7 @@ Features
 <br>
 Student Records Management:<br>
 Add, update, and delete student records<br>
-View student details including personal information, courses enrolled, and grades
+View student details including personal information, courses enrolled, and grades.
 <br>
 Appointment Scheduling:<br>
 Schedule and manage appointments for students and staff<br>
